@@ -1,0 +1,10 @@
+.pagenumber {
+    list-style: none;
+    display: flex
+}
+
+.pagenumber li {
+    padding: 10px;
+    border: 1px solid white;
+    cursor: pointer;
+}
